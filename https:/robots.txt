@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# Help Google find your map on the new domain
-Sitemap: https://portalyzo.vercel.app/sitemap.xml
